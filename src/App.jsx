@@ -5,7 +5,6 @@ function App() {
 
   return (
     <>
-  {/* <Crud1/> */}
   <Crud/>
     </>
   )
